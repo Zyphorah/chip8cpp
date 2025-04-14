@@ -1,3 +1,5 @@
+//Raphael Arseneault
+
 export module VideoBuffer;
 
 export import IVideoBuffer;
